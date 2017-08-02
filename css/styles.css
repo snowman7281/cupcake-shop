@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+.flashy {
+  font-weight: 30%;
+  color: red;
+  font-style: italic;
+}
+
+h2.best{
+  font-style:italic;
+  font-weight: bold;
+  color: #BE5F7C;
+
+}
+
+h1{
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  font-size: 100px;
+}
+
+.header{
+  height: 30%;
+  width: 40%;
+
+}
+
+body{
+  background-color: #9775AA;
+}
